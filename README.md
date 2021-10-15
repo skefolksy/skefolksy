@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @skefolksy
+- 👋 Hi, I’m Mareena
 - 👀 I’m interested in languages and technology.
-- 📫 How to reach me > skefolksy@gmail.com
+- 📫 Reach me here > skefolksy@gmail.com
 
 <!---
 skefolksy/skefolksy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
